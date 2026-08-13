@@ -206,7 +206,7 @@ que vamos estudar ao longo da disciplina.
 
 ## 4.4 Sobre o código
 
-O arquivo `lab04_aula02_CIAO.ipynb` implementa:
+O arquivo `lab04_aula02.ipynb` implementa:
 - Geração de uma lista de corridas com duração e ganho aleatórios;
 - Uma função que gera uma solução aleatória (vetor de 0s e 1s);
 - A função objetivo, que calcula o ganho total de uma solução;
