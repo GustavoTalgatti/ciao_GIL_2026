@@ -90,6 +90,7 @@ Todas as execuções usaram a mesma semente aleatória (`seed=42`) pra garantir 
 | Formigas=50 | 1.0 | 2.0 | 0.5 | 50 | [0,1,2,3,4,5] | 8.0 | 0 | 1 | 1250.0 | 260.42 |
 
 Em todas as 9 configurações o custo final foi 8.0, já na iteração 0. Como a rede é pequena e tem caminhos empatados no custo mínimo, mudar os parâmetros não muda o resultado final, quem muda é a "história" de como o algoritmo chega lá (quanto feromônio se acumula e quantas formigas se perdem no caminho). O gráfico de convergência abaixo é o da configuração base; os das outras 8 configurações ficaram praticamente idênticos (reta em 8).
+
 <img width="691" height="394" alt="lab02_01" src="https://github.com/user-attachments/assets/10ea9843-8244-4571-9bfa-ecc1a2a94a8e" />
 
 
