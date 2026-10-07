@@ -235,8 +235,6 @@ pip install numpy matplotlib scikit-fuzzy
 python lab03_aula09.py
 ```
 
-O código imprime a tabela de testes e salva os gráficos na pasta `imagens/`.
-
 ### Etapa 4 — Testes
 
 Para comparar com a resposta esperada, o código converte o número da saída em classe: abaixo de 35 = baixo, de 35 a 65 = médio, acima de 65 = alto.
@@ -278,4 +276,3 @@ Foram montados três sistemas fuzzy: o ventilador, a gorjeta e o risco de evasã
 | `lab02_aula09.py` | Gorjeta com scikit-fuzzy |
 | `experimentos_lab02.py` | Experimentos do lab 02 |
 | `lab03_aula09.py` | Projeto próprio: risco de evasão |
-| `imagens/` | Gráficos usados neste relatório |
