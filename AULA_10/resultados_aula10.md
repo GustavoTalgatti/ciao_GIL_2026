@@ -1,4 +1,4 @@
-# Resultados — Aula 04 — CIAO
+# Resultados — Aula 10 — CIAO
 *Grupo:*  _Gabriela Camarço de Sousa_, _Igor Ferreira Alves_ e _Luis Gustavo dos Santos Talgatti._ 
 ---
 
